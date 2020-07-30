@@ -1,0 +1,76 @@
+{
+  "lugaresTuristicos": [
+    {
+      "nombre": "Skytree",
+      "ciudad": "Tokyo",
+      "tipo": "Mirador",
+      "zona": "Sumida",
+      "horario": "10:00 am - 18:00 pm",
+      "img": "json/bd1_img/skytree.jpg"
+    },
+    {
+      "nombre": "Ueno",
+      "ciudad": "Tokyo",
+      "tipo": "Parque",
+      "zona": "Taitou-ku",
+      "horario": "9:00 am - 15:00 pm",
+      "img": "json/bd1_img/ueno.jpg"
+    },
+    {
+      "nombre": "Harajuku",
+      "ciudad": "Tokyo",
+      "tipo": "Barrio",
+      "zona": "Shibuya",
+      "horario": "Ininterrumpido",
+      "img": "json/bd1_img/harajuku.jpg"
+    },
+    {
+      "nombre": "Zojo-ji",
+      "ciudad": "Tokyo",
+      "tipo": "Templo",
+      "zona": "Minato",
+      "horario": "9:00 am - 17:00 pm",
+      "img": "json/bd1_img/zojoji.jpg"
+    },
+    {
+      "nombre": "To-ji",
+      "ciudad": "Kyoto",
+      "tipo": "Templo",
+      "zona": "Minami-ku",
+      "horario": "9:00 am - 18:00 pm",
+      "img": "json/bd1_img/toji.jpg"
+    },
+    {
+      "nombre": "Maruyama",
+      "ciudad": "Kyoto",
+      "tipo": "Parque",
+      "zona": "Gion",
+      "horario": "Ininterrumpido",
+      "img": "json/bd1_img/maruyama.jpg"
+    },
+    {
+      "nombre": "Kurama",
+      "ciudad": "Kyoto",
+      "tipo": "Monte",
+      "zona": "Sakyo-ku",
+      "horario": "Ininterrumpido",
+      "img": "json/bd1_img/kurama.jpg"
+    },
+    {
+      "nombre": "Dotonbori",
+      "ciudad": "Osaka",
+      "tipo": "Barrio",
+      "zona": "Namba",
+      "horario": "Ininterrumpido",
+      "img": "json/bd1_img/dotonbori.jpg"
+    },
+    {
+      "nombre": "Tsutenkaku",
+      "ciudad": "Osaka",
+      "tipo": "Mirador",
+      "zona": "Shinsekai",
+      "horario": "9:00 am - 21:00 pm",
+      "img": "json/bd1_img/tsutenkaku.jpg"
+    }
+  ]
+}
